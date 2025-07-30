@@ -50,10 +50,6 @@ We practice what we preach - our entire AI governance process is [open and trans
 - **[Blog](https://blog.metareason.ai)** - Technical deep dives
 - **[Twitter](https://twitter.com/MetaReasonAI)** - Updates and insights
 
-## 📈 Stats
-
-![MetaReason's GitHub stats](https://github-readme-stats.vercel.app/api?username=metareason-ai&show_icons=true&theme=default&count_private=false)
-
 ---
 
 **Founded 2025** • **Open Source** • **Enterprise Ready**
