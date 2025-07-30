@@ -16,7 +16,7 @@
 
 ## 🚀 Our Products
 
-### [MetaReason Core](https://github.com/metareason/metareason-core) (Open Source)
+### [MetaReason Core](https://github.com/metareason-ai/metareason-core) (Open Source)
 The evaluation engine that powers statistical confidence scoring
 - YAML-based configuration
 - PyMC Bayesian analysis  
@@ -31,7 +31,7 @@ Enterprise platform with governance dashboards
 
 ## 🏛️ Open Governance
 
-We practice what we preach - our entire AI governance process is [open and transparent](https://github.com/metareason/metareason-governance):
+We practice what we preach - our entire AI governance process is [open and transparent](https://github.com/metareason-ai/metareason-governance):
 
 - 📋 **Public Policies** - All AI governance documents
 - 🎯 **Risk Management** - Live risk register and assessments  
@@ -40,9 +40,8 @@ We practice what we preach - our entire AI governance process is [open and trans
 
 ## 🌟 Featured Repositories
 
-- **[metareason-core](https://github.com/metareason/metareason-core)** - Open-source evaluation engine
-- **[metareason-governance](https://github.com/metareason/metareason-governance)** - Complete AI governance framework
-- **[examples](https://github.com/metareason/examples)** - Sample evaluations and tutorials
+- **[metareason-core](https://github.com/metareason-ai/metareason-core)** - Open-source evaluation engine
+- **[metareason-governance](https://github.com/metareason-ai/metareason-governance)** - Complete AI governance framework
 
 ## 💬 Community
 
