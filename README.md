@@ -52,7 +52,7 @@ We practice what we preach - our entire AI governance process is [open and trans
 
 ## 📈 Stats
 
-![MetaReason's GitHub stats](https://github-readme-stats.vercel.app/api?username=metareason&show_icons=true&theme=default&count_private=false)
+![MetaReason's GitHub stats](https://github-readme-stats.vercel.app/api?username=metareason-ai&show_icons=true&theme=default&count_private=false)
 
 ---
 
